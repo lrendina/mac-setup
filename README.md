@@ -35,7 +35,7 @@ xargs brew install < apps.txt
 ## Raycast
 
 Now that we have Raycast installed, add the homebrew extension to search and add homebrew packages as needed
-Settings -> Extensions -> + -> add from store -> search homebrew and add
+- Settings -> Extensions -> + -> add from store -> search homebrew and add
 
 ## Terminal
 
