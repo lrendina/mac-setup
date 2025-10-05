@@ -1,0 +1,13 @@
+discord
+ffmpeg
+hiddenbar
+iterm2
+itsycal
+keka
+localsend
+raycast
+rectangle
+spotify
+stats
+visual-studio-code
+vlc
